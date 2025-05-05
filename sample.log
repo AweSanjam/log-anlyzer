@@ -1,0 +1,5 @@
+[INFO] Server started successfully.
+[WARNING] Disk space at 92%
+[ERROR] Failed to connect to database.
+[INFO] User logged in.
+[CRITICAL] Memory leak detected in process 1234.
